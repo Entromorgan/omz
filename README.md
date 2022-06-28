@@ -1,2 +1,3 @@
 # omz
-oh-my-zsh config
+clone this repo
+sh ./config.sh
